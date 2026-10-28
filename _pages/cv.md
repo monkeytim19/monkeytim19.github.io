@@ -12,7 +12,14 @@ redirect_from:
 Experience
 ======
 
-* **Data Scientist**, HSBC – London, UK (Jun 2025 – Present)
+* **Applied AI/ML Associate**, JP Morgan Chase – London, UK (Jun 2026 – Present)
+  * Developing an email classification model to categorise and route incoming communications at scale in an AWS environment
+  * Combining multiple Large Language Models (LLMs) and traditional ML models like XGBoost to improve classification accuracy and efficiency
+  * Integrating the model via FastAPI into the existing email routing system to automate the classification and routing process
+  * Building a proof-of-concept LLM pipeline for automated review and population of legal documents, including the backend and frontend components for the application
+  * Utilising tools such as Claude Code, LangChain as part of the development process for application and model deployment
+
+* **Data Scientist**, HSBC – London, UK (Jun 2025 – Jun 2026)
   * Performed regular feature engineering on Google Cloud Platform (GCP) to continually improve production LightGBM models for detecting payment fraud
   * Implemented novel post-training transformations to score predictions and applied ensembling of multiple specialised ML models to improve overall value detection rate
   * Improved optimisation procedure on model thresholding to improve monthly value detected by 3–5 percentage points
@@ -60,6 +67,6 @@ Projects
 Skills
 ======
 
-* **Programming Languages:** Python (PyTorch, Scikit-learn, HuggingFace, PySpark, etc.), SQL, R, MATLAB, Shell (Bash/Zsh)
+* **Programming Languages:** Python (PyTorch, Scikit-learn, HuggingFace, Pandas, NumPy, PySpark, etc.), SQL, R, MATLAB, Shell (Bash/Zsh)
 * **Technologies:** Google Cloud Platform, LaTeX, GitHub, Apache Spark
 * **Languages:** English, Cantonese, Mandarin
